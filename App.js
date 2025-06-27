@@ -1,12 +1,10 @@
 
 import './App.css';
-import { Greet } from './components/Greet';
-import { Welcome } from './components/Welcome';
+import { UserCard } from './UserCard';
 function App() {
   return (
     <div className="App">
-      <Welcome />
-     <Greet />
+      <UserCard name = "Raju" age = "30" salary = "1000"></UserCard>
     </div>
   );
 }
