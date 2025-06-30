@@ -1,0 +1,30 @@
+.main{
+
+    background:linear-gradient(rgb(130, 130, 217),green);
+    height: 500px;
+    width: 300px;
+}
+.text{
+   position: relative;
+   top:20px;
+    height: 30px;
+    width: 200px;
+    border-radius: 50px;
+}
+.button{
+    position: relative;
+    top:20px;
+    height: 35px;
+    width:40px;
+    border-radius: 50px;
+
+}
+.second{
+    position: relative;
+    top:30px;
+}
+.li{
+   
+
+    color: antiquewhite;
+}
