@@ -1,0 +1,22 @@
+*{
+    align-items: center;
+    justify-content: center;
+}
+.div{
+    background-color: rgb(141, 188, 230);
+    height: 400px;
+    width: 400px;
+    
+}
+form{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+button{
+    position: relative;
+    left: 100px;
+}
